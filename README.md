@@ -1,8 +1,8 @@
-# FloydT - Exynos9810 - OneUI 5.1
+# DuhanROM - Exynos9810 - OneUI 6.1.1
 
-**Bug reporting repo for [FloydT](TBD)**
+**Bug reporting repo for [DuhanROM](https://xdaforums.com/t/rom-oneui-6-1-1-galaxy-s9-s9-note9-intl-kor-g960x-g965x-n960x-duhanrom-v3-15-11-06-2025.4743791/)**
 
-![FloydT_Banner](https://github.com/ananjaser1211/FloydT_Reports/assets/25624482/8dc986d5-300e-42c1-82c4-30a2b597ec20)
+![DuhanROM-Banner](https://github.com/user-attachments/assets/2a658599-ac75-4e32-bab0-44717298808a)
 
 
 ### How to write issues
@@ -14,7 +14,7 @@
 * Gather logs!
 
 ### How to gather logs with **LoggingKit**
-* Clone/Fork the repo or download the kit via [Releases](https://github.com/ananjaser1211/FloydQ_Reports/releases)
+* Clone/Fork the repo or download the kit via [Releases](https://github.com/duhansysl/DuhanROM-Reports/releases)
 
 ### [With booted System] - **Intended for Crashes, FCs and other SYSTEM Logs**
 
