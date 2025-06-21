@@ -1,8 +1,8 @@
-# DuhanROM - Exynos9810 - OneUI 6.1.1
+# DuhanROM - Exynos9810 - OneUI 6.1.1 / 7.0
 
 **Bug reporting repo for [DuhanROM](https://xdaforums.com/t/rom-oneui-6-1-1-galaxy-s9-s9-note9-intl-kor-g960x-g965x-n960x-duhanrom-v3-15-11-06-2025.4743791/)**
 
-![DuhanROM-Banner](https://github.com/user-attachments/assets/2a658599-ac75-4e32-bab0-44717298808a)
+![DuhanROM-Banner](https://github.com/user-attachments/assets/b004be46-4940-4f4a-8e8e-8e097dc2ea12)
 
 
 ### How to write issues
